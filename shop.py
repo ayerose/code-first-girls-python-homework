@@ -1,5 +1,5 @@
 shop = {
-  "Book": 7,
+  "Book":  7,
   "Lamp": 15,
   "Tablet": 399
 }
